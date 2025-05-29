@@ -1,5 +1,8 @@
 {
   "base_queries": [
     "diffusion model"
+  ],
+  "add_queries": [
+    "vision"
   ]
 }
